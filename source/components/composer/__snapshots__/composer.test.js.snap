@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Composer component: Definded -> class: _shold render valid markup depending on passed props snapshot should match 1`] = `"<img src=\\"https://www.avatar.com\\"><form><textarea placeholder=\\"What is in your mind, Andrey\\"></textarea><input type=\\"submit\\" value=\\"Post\\"></form>"`;

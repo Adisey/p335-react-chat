@@ -1,0 +1,4 @@
+yarn test  --verbose --coverage
+
+
+Нельзя - yarn test -u

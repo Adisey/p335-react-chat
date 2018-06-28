@@ -3,7 +3,6 @@ import React, { Component } from "react";
 import { string, func, arrayOf, shape } from "prop-types";
 import cx from "classnames";
 
-
 // inst
 import Styles from "./styles.m.css";
 import { withProfile } from "../HOK/withprofile";
